@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+.venv/
+.env
+.pytest_cache/
+.ipynb_checkpoints/
+.DS_Store
+*.log
+outputs/*.csv
+outputs/*.xlsx
+outputs/*.png
+outputs/asr_comparison/
+outputs/tasks.json
+models/
+data/*.csv
